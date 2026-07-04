@@ -16,6 +16,9 @@ Thumbs.db
 /publish/
 /publish_output/
 artifacts/
+/src/notebook/bin
+/src/notebook/obj
+/src/notebook/wwwroot
 
 # Rider
 .idea/
@@ -94,6 +97,3 @@ docker-compose.override.yml
 Icon?
 
 # End of file
-/src/notebook/bin/Debug/net8.0
-/src/notebook/obj
-/src/notebook/wwwroot
