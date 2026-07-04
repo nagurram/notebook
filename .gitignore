@@ -1,0 +1,96 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+/bin/
+/obj/
+/PublishDir/
+/publish/
+/publish_output/
+artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# IIS Express
+IISExpress/*
+
+# Entity Framework
+*.edmx.diagram
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+_ReSharper.Caches/
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET Core user secrets and appsettings environment overrides
+secrets.json
+appsettings.*.json
+
+# Logs
+logs/
+*.log
+
+# Test results
+TestResults/
+test-results/
+
+# Node / React / TypeScript
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs for frontend
+/build/
+/dist/
+/.next/
+/.parcel-cache/
+/.cache/
+/public/build/
+
+# Environment files (may contain secrets)
+.env
+.env.*.local
+
+# TypeScript incremental build info
+*.tsbuildinfo
+
+# Coverage
+coverage/
+nyc_output/
+
+# Misc IDE files
+*.swp
+*~
+
+# Docker
+docker-compose.override.yml
+
+# macOS Icon files
+Icon?
+
+# End of file
