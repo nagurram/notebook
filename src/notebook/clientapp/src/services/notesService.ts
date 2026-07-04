@@ -1,6 +1,6 @@
 import type { Note, CreateNoteDto, UpdateNoteDto } from '../types';
 
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5012';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://localhost:7048';
 const NOTES_ENDPOINT = `${API_BASE_URL}/bff/notes`;
 
 export const notesService = {

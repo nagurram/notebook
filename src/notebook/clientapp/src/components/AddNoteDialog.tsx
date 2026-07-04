@@ -10,7 +10,6 @@ import {
   Box,
   Alert,
 } from '@mui/material';
-import 'react-quill-new/dist/quill.snow.css';
 import type { Note, CreateNoteDto, UpdateNoteDto } from '../types';
 import { notesService } from '../services/notesService';
 
