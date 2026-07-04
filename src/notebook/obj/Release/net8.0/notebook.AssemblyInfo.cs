@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("notebook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+396b27b04fa760e4da6a516a3c9974e6f9387ceb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15380f0b388a55882564797cfab0d038aed3a821")]
 [assembly: System.Reflection.AssemblyProductAttribute("notebook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("notebook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
