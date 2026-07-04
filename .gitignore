@@ -94,3 +94,6 @@ docker-compose.override.yml
 Icon?
 
 # End of file
+/src/notebook/bin/Debug/net8.0
+/src/notebook/obj
+/src/notebook/wwwroot
